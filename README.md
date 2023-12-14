@@ -7,10 +7,10 @@ gstatus=`git status --porcelain`
 if [ ${#gstatus} -ne 0 ]
 then
 
-    git add --all
+    git add .
     git commit -m "$gstatus"
 
-	git pull
+	
     git push
 
 fi

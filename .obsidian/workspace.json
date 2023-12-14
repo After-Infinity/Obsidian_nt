@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b4812a9ffbbfef9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,16 +173,18 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "ee4fa19e8ec03c9d",
+  "active": "4b4812a9ffbbfef9",
   "lastOpenFiles": [
+    "Untitled.md",
+    "SYNC.sh",
+    "sync.sh",
+    "README.md",
+    "sync.bat",
     "Electrochemistry/Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 1m47s].png",
     "Electrochemistry/Doubt_Electro_chem.md",
     "test",
-    "sync.bat",
-    "sync.sh",
     "sync.sh.txt",
     "New Text Document.txt",
-    "README.md",
     "Electrochemistry/Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 13m35s].png",
     "Electrochemistry/Questions_electro_chem.md",
     "Electrochemistry/Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 12m42s].png",
@@ -190,7 +204,6 @@
     "Electrochemistry",
     "UNITS AND MEADUREMENTS/UNITS AND MEASUREMENTS.md",
     "UNITS AND MEADUREMENTS/Doubt.md",
-    "My code file.py",
     "2023-12-08.md"
   ]
 }
