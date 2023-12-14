@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrochemistry/Doubt_Electro_chem.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "82b46db6f61b3242",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrochemistry/Doubt_Electro_chem.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrochemistry/Doubt_Electro_chem.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrochemistry/Doubt_Electro_chem.md"
+                "file": "README.md"
               }
             }
           }
@@ -164,22 +163,26 @@
   },
   "active": "ee4fa19e8ec03c9d",
   "lastOpenFiles": [
-    "Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 13m35s].png",
-    "Electrochemistry/Questions_electro_chem.md",
-    "Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 12m42s].png",
-    "Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 11m55s].png",
+    "Electrochemistry/Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 1m47s].png",
     "Electrochemistry/Doubt_Electro_chem.md",
-    "Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 10m55s].png",
-    "Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 10m40s].png",
-    "Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 10m23s].png",
-    "Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 9m11s].png",
-    "Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 7m56s].png",
+    "test",
+    "sync.bat",
+    "sync.sh",
+    "sync.sh.txt",
+    "New Text Document.txt",
+    "README.md",
+    "Electrochemistry/Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 13m35s].png",
+    "Electrochemistry/Questions_electro_chem.md",
+    "Electrochemistry/Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 12m42s].png",
+    "Electrochemistry/Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 11m55s].png",
+    "Electrochemistry/Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 10m55s].png",
+    "Electrochemistry/Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 10m40s].png",
+    "Electrochemistry/Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 10m23s].png",
+    "Electrochemistry/Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 9m11s].png",
+    "Electrochemistry/Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 7m56s].png",
     "Electrochemistry/Questions_Electro_chem.md",
-    "Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 1m47s].png",
     "Electrochemistry/Electrochemistry.md",
-    "Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 3m55s].png",
-    "Untitled",
-    "Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 1m49s].png",
+    "Electrochemistry/Xylem NEET - ELECTROCHEMISTRY 100 GOLDEN QUESTIONS NEET 2022 XYLEM LEARNING [VoqxD11KlVQ - 1100x619 - 3m55s].png",
     "tools/random number cal.py",
     "tools/CALCULATOR.canvas",
     "tools/main 1.py",
@@ -188,10 +191,6 @@
     "UNITS AND MEADUREMENTS/UNITS AND MEASUREMENTS.md",
     "UNITS AND MEADUREMENTS/Doubt.md",
     "My code file.py",
-    "main.py",
-    "My code file.ts",
-    "tools",
-    "2023-12-08.md",
-    "UNITS AND MEADUREMENTS"
+    "2023-12-08.md"
   ]
 }

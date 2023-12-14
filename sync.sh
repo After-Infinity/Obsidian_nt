@@ -1,5 +1,3 @@
-"# Obsidian_nt" 
-#command ```
 #!/bin/bash
 
 gstatus=`git status --porcelain`
@@ -14,4 +12,3 @@ then
     git push
 
 fi
-```
