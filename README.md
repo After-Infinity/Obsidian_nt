@@ -8,10 +8,8 @@ if [ ${#gstatus} -ne 0 ]
 then
 
     git add .
-    git commit -m "$gstatus"
-
-	
-    git push
+    git commit -m "$gstatu"
+	git push
 
 fi
 ```
