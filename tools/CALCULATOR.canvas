@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"ffeeb968b6e22d43","type":"file","file":"tools/main 1.py","x":-280,"y":-200,"width":400,"height":400,"color":"5"},
+		{"id":"a5e5625095aa739d","x":-1040,"y":-80,"width":400,"height":400,"type":"file","file":"tools/random number cal.py"}
+	],
+	"edges":[]
+}
