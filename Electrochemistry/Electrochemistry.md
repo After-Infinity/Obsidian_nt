@@ -1,5 +1,0 @@
-video:https://www.youtube.com/watch?v=0l40B9lsrUI&t
-![[Xylem Plus Two - Plus Two Chemistry - Electrochemistry & D and F Block Elements Xylem Plus Two [0l40B9lsrUI - 900x506 - 21m03s].png]]![[Xylem Plus Two - Plus Two Chemistry - Electrochemistry & D and F Block Elements Xylem Plus Two [0l40B9lsrUI - 900x506 - 25m56s].png]]![[Xylem Plus Two - Plus Two Chemistry - Electrochemistry & D and F Block Elements Xylem Plus Two [0l40B9lsrUI - 1100x619 - 30m48s].png]]
-![[Xylem Plus Two - Plus Two Chemistry - Electrochemistry & D and F Block Elements Xylem Plus Two [0l40B9lsrUI - 1100x619 - 49m42s].png]]![[Xylem Plus Two - Plus Two Chemistry - Electrochemistry & D and F Block Elements Xylem Plus Two [0l40B9lsrUI - 1100x619 - 54m19s].png]]
-![[Pasted image 20231214064652.png]]![[Xylem Plus Two - Plus Two Chemistry - Electrochemistry & D and F Block Elements Xylem Plus Two [0l40B9lsrUI - 1100x619 - 1h01m48s].png]]
-![[Xylem Plus Two - Plus Two Chemistry - Electrochemistry & D and F Block Elements Xylem Plus Two [0l40B9lsrUI - 1100x619 - 1h06m24s].png]]
