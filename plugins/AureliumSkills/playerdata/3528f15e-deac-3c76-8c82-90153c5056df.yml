@@ -14,7 +14,7 @@ skills:
     xp: 0.0
   excavation:
     level: 1
-    xp: 0.0
+    xp: 4.2
   archery:
     level: 1
     xp: 0.0
@@ -23,7 +23,7 @@ skills:
     xp: 9.0
   fighting:
     level: 1
-    xp: 0.0
+    xp: 12.0
   endurance:
     level: 1
     xp: 0.0
