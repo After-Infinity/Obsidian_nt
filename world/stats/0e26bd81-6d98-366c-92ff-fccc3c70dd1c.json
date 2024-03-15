@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"stats":{"minecraft:dropped":{"minecraft:barrier":1},"minecraft:custom":{"minecraft:jump":88,"minecraft:time_since_rest":12902,"minecraft:crouch_one_cm":23,"minecraft:play_time":23462,"minecraft:leave_game":2,"minecraft:sprint_one_cm":7959,"minecraft:deaths":1,"minecraft:time_since_death":12896,"minecraft:walk_one_cm":11039,"minecraft:sneak_time":436,"minecraft:total_world_time":23462,"minecraft:drop":1,"minecraft:fly_one_cm":207489},"minecraft:used":{"minecraft:fire_charge":16}},"DataVersion":3700}
+=======
+{"stats":{"minecraft:used":{"minecraft:elytra":1,"minecraft:firework_rocket":156},"minecraft:custom":{"minecraft:jump":44,"minecraft:time_since_rest":14292,"minecraft:damage_dealt":100,"minecraft:crouch_one_cm":413,"minecraft:play_time":14292,"minecraft:leave_game":3,"minecraft:sprint_one_cm":3687,"minecraft:time_since_death":14292,"minecraft:walk_one_cm":6001,"minecraft:sneak_time":112,"minecraft:total_world_time":14292,"minecraft:fly_one_cm":218908,"minecraft:aviate_one_cm":454613}},"DataVersion":3700}
+>>>>>>> 0c83cdf (hai)

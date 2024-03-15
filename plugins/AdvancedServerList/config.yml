@@ -1,0 +1,17 @@
+unknownPlayer:
+    name: Anonymous
+    uuid: 606e2ff0-ed77-4842-9d6c-e1d3321c7838
+disableCache: false
+checkUpdates: true
+debug: false
+faviconCacheTime: 1
+disableDuringMaintenance:
+    motd: true
+    favicon: true
+    hidePlayers: true
+    playerCountText: true
+    playerCountHover: true
+    extraPlayers: true
+    maxPlayers: true
+config-version: 5
+configVersion: 5
